@@ -28,7 +28,9 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "node_modules/@uimf/uitk/styles/themes/standard.css",
+              "node_modules/@uimf/icons/webfonts/stylesheets/micro-interaction-icons.css"
             ],
             "scripts": []
           },
